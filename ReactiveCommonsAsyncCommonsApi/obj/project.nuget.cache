@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/5JyBJjOIdF7BSacIYtJ4MqIAI+8GUexECRZ9wkVYULMF/l5Boe6Yape8YbX4nkAW0JjcLYOXN+NVctYaCU/A==",
+  "success": true,
+  "projectFilePath": "E:\\Github\\reactive-commons-net\\ReactiveCommonsAsyncCommonsApi\\ReactiveCommonsAsyncCommonsApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejandro\\.nuget\\packages\\lombok.net\\2.3.0\\lombok.net.2.3.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\reactivecommonsdomaineventsapi\\1.0.0\\reactivecommonsdomaineventsapi.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

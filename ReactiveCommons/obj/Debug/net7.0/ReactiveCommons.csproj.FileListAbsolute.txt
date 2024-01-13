@@ -1,0 +1,12 @@
+E:\Github\reactive-commons-net\ReactiveCommons\bin\Debug\net7.0\ReactiveCommons.deps.json
+E:\Github\reactive-commons-net\ReactiveCommons\bin\Debug\net7.0\ReactiveCommons.dll
+E:\Github\reactive-commons-net\ReactiveCommons\bin\Debug\net7.0\ReactiveCommons.pdb
+E:\Github\reactive-commons-net\ReactiveCommons\obj\Debug\net7.0\ReactiveCommons.csproj.AssemblyReference.cache
+E:\Github\reactive-commons-net\ReactiveCommons\obj\Debug\net7.0\ReactiveCommons.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\reactive-commons-net\ReactiveCommons\obj\Debug\net7.0\ReactiveCommons.AssemblyInfoInputs.cache
+E:\Github\reactive-commons-net\ReactiveCommons\obj\Debug\net7.0\ReactiveCommons.AssemblyInfo.cs
+E:\Github\reactive-commons-net\ReactiveCommons\obj\Debug\net7.0\ReactiveCommons.csproj.CoreCompileInputs.cache
+E:\Github\reactive-commons-net\ReactiveCommons\obj\Debug\net7.0\ReactiveCommons.dll
+E:\Github\reactive-commons-net\ReactiveCommons\obj\Debug\net7.0\refint\ReactiveCommons.dll
+E:\Github\reactive-commons-net\ReactiveCommons\obj\Debug\net7.0\ReactiveCommons.pdb
+E:\Github\reactive-commons-net\ReactiveCommons\obj\Debug\net7.0\ref\ReactiveCommons.dll

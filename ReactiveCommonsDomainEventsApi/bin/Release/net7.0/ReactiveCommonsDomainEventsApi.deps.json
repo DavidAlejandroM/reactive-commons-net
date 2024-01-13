@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ReactiveCommonsDomainEventsApi/1.0.0": {
+        "dependencies": {
+          "Lombok.NET": "2.3.0"
+        },
+        "runtime": {
+          "ReactiveCommonsDomainEventsApi.dll": {}
+        }
+      },
+      "Lombok.NET/2.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/Lombok.NET.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReactiveCommonsDomainEventsApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lombok.NET/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wPzhaqKYi7FeOgMfIG3dUy+J/20apFSciRbZ0WgzOp9LDcOUUqL30I88Vli6X32VVbJBthc5XaIoYQsg5EE/eg==",
+      "path": "lombok.net/2.3.0",
+      "hashPath": "lombok.net.2.3.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+E:\Github\reactive-commons-net\ReactiveCommonsAsyncCommonsApi\obj\Debug\net7.0\ReactiveCommonsAsyncCommonsApi.csproj.AssemblyReference.cache
+E:\Github\reactive-commons-net\ReactiveCommonsAsyncCommonsApi\obj\Debug\net7.0\ReactiveCommonsAsyncCommonsApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\reactive-commons-net\ReactiveCommonsAsyncCommonsApi\obj\Debug\net7.0\ReactiveCommonsAsyncCommonsApi.AssemblyInfoInputs.cache
+E:\Github\reactive-commons-net\ReactiveCommonsAsyncCommonsApi\obj\Debug\net7.0\ReactiveCommonsAsyncCommonsApi.AssemblyInfo.cs
+E:\Github\reactive-commons-net\ReactiveCommonsAsyncCommonsApi\obj\Debug\net7.0\ReactiveCommonsAsyncCommonsApi.csproj.CoreCompileInputs.cache

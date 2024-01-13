@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>ReactiveCommonsAsyncCommonsApi</Title>
+        <PackageProjectUrl>https://github.com/DavidAlejandroM/reactive-commons-net</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/DavidAlejandroM/reactive-commons-net</RepositoryUrl>
+        <RepositoryType>public</RepositoryType>
+        <Authors>David Alejandro Marin Alzate</Authors>
+        <Description>This library is to .NET</Description>
+        <PackageTags>event, domain, api</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PublicSign>false</PublicSign>
+        <AssemblyVersion>1.0.0</AssemblyVersion>
+        <NeutralLanguage>en</NeutralLanguage>
+        <Copyright>Copyright 2024</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReleaseNotes>modelo inicial</PackageReleaseNotes>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Lombok.NET" Version="2.3.0" />
+      <PackageReference Include="ReactiveCommonsDomainEventsApi" Version="1.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Include="README.md" Pack="true" PackagePath="\"/>
+    </ItemGroup>
+
+</Project>

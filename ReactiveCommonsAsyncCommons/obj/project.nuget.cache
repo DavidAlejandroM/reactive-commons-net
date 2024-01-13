@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvqcI+fOLAOqL1uyQYp684Hf3f1c3eYoJ6H7e1cNwdKleEanuEvhbWjex5DJukobBhxodo7ZuZQuD9kXGayJFg==",
+  "success": true,
+  "projectFilePath": "E:\\Github\\reactive-commons-net\\ReactiveCommonsAsyncCommons\\ReactiveCommonsAsyncCommons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejandro\\.nuget\\packages\\lombok.net\\2.3.0\\lombok.net.2.3.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\reactivecommonsdomaineventsapi\\1.0.0\\reactivecommonsdomaineventsapi.1.0.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\system.reactive\\6.0.1-preview.1\\system.reactive.6.0.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="api\" />
+      <Folder Include="rabbit-starter" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Lombok.NET" Version="2.3.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="ReactiveCommonsDomainEventsApi">
+        <HintPath>..\..\ReactiveCommonsDomainEventsApi\ReactiveCommonsDomainEventsApi\bin\Debug\net7.0\ReactiveCommonsDomainEventsApi.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Title>ReactiveCommonsAsynCommonsApi</Title>
+        <PackageProjectUrl>https://github.com/DavidAlejandroM/reactive-commons-net</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/DavidAlejandroM/reactive-commons-net</RepositoryUrl>
+        <RepositoryType>public</RepositoryType>
+        <Authors>David Alejandro Marin Alzate</Authors>
+        <Description>This library is to .NET</Description>
+        <PackageTags>event, domain, api</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PublicSign>false</PublicSign>
+        <AssemblyVersion>1.0.0</AssemblyVersion>
+        <NeutralLanguage>en</NeutralLanguage>
+        <Copyright>Copyright 2024</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReleaseNotes>modelo inicial</PackageReleaseNotes>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="converters\json\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ReactiveCommonsAsyncCommonsApi\ReactiveCommonsAsyncCommonsApi.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+      <PackageReference Include="System.Reactive" Version="6.0.1-preview.1" />
+    </ItemGroup>
+
+</Project>
